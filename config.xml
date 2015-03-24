@@ -14,7 +14,7 @@ A simple PhoneGap Build application.
 Your Name
 </author>
 
-
+<icon src="img/music.png" />
 <gap:plugin name="org.apache.cordova.media" version="0.2.13" />
 
 
