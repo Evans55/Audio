@@ -4,14 +4,14 @@
     id        = "com.phonegap.example"
     version   = "1.0.0">
 
-<name>PhoneGap Build Application</name>
+<name>Audio APP</name>
 
 <description>
-A simple PhoneGap Build application.
+Audio APP.
 </description>
 
-<author href="https://example.com" email="you@example.com">
-Your Name
+<author href="https://example.com" email="jonathanccoicca@gmail.com">
+Jonathan David Ccoicca Jiménez
 </author>
 
 <icon src="img/music.png" />
